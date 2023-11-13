@@ -12,8 +12,8 @@ To demonstrate the Matrix transposition on shared memory with grid (1,1) block (
 6. Save and execute the program.
 ## Program
 ```python
-Developed By: Y SHAVEDHA
-Register No. 212221230095
+Developed By: Evangelin.S
+Register No. 212221230025
  
 #include "common.h"
 #include <cuda_runtime.h>
